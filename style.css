@@ -1,0 +1,64 @@
+.banner{
+    background-color: #ededf0;
+}
+.card-header{
+    border: none;
+    background-color: #ededf0;
+}
+.card{
+    background-color: #ededf0;
+    border: none;
+}
+
+.card-header h6{
+    margin-bottom: -8px;
+}
+.card-body h5{
+    font-size: 42px;
+}
+.card-header h5 {
+	margin-bottom: -18px;
+	font-size: 15px;
+}
+/* About */
+.About img{
+    margin-left: 155px !important;
+}
+/* card2 */
+.card2 {
+    background-color: none;
+}
+.card-header2{
+    background-color: none;
+}
+/* card-box */
+.card-box{
+    background-color: #fff;
+    padding: 15px 0;
+}
+.card-box ul{}
+.card-box ul li{
+    list-style: none;
+    padding: 5px 0;
+}
+.card-box span {
+	background-color: #ededf2;
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+	border-radius: 50%;
+	line-height: 55px;
+}
+.card-box{
+    box-shadow: 0px 0px 12px 4px #ddd;
+    box-sizing: border-box;
+} 
+.contact-us{
+    margin-left: 10px;
+}
+.contact button{
+    margin: auto;
+}
+.card4{
+    background-color: rgb(250, 247, 247);
+}
